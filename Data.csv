@@ -1,5 +1,5 @@
 "Term","Subject","Course","Section","CRN","Xlst_Grp","SchdTyp","InsmTyp","Session","Building","Room","M","T","W","R","F","S","U","BeginTime","End Time","Maximum Enrollment","Actual Enrollment","Seats Available","Waitlist Count","Waitlist Available","Waitlist Capacity","P/T","Sch","Course Title","Credit Hrs","Instructor","Special Approval","Restricted Curric","Auditing","ApplLearning Attribute","SUNY_COIL_Attr","GenEd_Attr","DEIS_Attr"
-202402,CPS,100,001,252474,,A,CLASS,D,GLSN,310,,,W,,,,,10:50 AM,12:05 PM,20,21,-1,0,0,0,1,04,Introduction to Cybersecurity,1,"Renna, James", ,  ,0,,,,
+202402,CPS,100,001,25474,,A,CL2ASS,D,GLSN,310,,,W,,,,,10:50 AM,12:05 PM,20,21,-1,0,0,0,1,04,Introduction to Cybersecurity,1,"Renna, James", ,  ,0,,,,
 202402,CPS,100,002,25795,,A,CLASS,D,GLSN,310,M,,,,,,,10:50 AM,12:05 PM,20,20,0,0,0,0,1,04,Introduction to Cybersecurity,1,"Renna, James", ,  ,0,,,,
 202402,CPS,201,001,21558,,A,CLASS,D,WHIT,248,,T,,R,,,,12:15 PM,01:30 PM,28,21,7,0,0,0,1,04,Digital Systems & Security,3,"Tokgoz, Emre", ,  ,0,,,,
 202402,CPS,203,001,21967,,A,CLASS,D,LUPT,165,M,,W,,,,,12:15 PM,01:30 PM,24,11,13,0,0,0,1,04,Data Security & Privacy,3,"Eltaeib, Tarik", ,  ,0,,,,
@@ -9,12 +9,10 @@
 202402,CPS,303,001,21969,,A,CLASS,D,WHIT,217,M,,W,,,,,01:40 PM,02:55 PM,16,14,2,0,0,0,1,04,Operating System & Security,3,"Eltaeib, Tarik", ,  ,0,,,,
 202402,CPS,303,IND,25724,,D,OFFCC,S,OFF,CAMP,,,,,,,,,,5,1,4,0,0,0,1,04,Operating System & Security,3,"Eltaeib, Tarik",A3 Chair of Department,  ,0,,,,
 202402,CPS,305,001,21970,,A,CLASS,D,LUPT,190,,T,,R,,,,01:40 PM,02:55 PM,24,19,5,0,0,0,1,04,Foundations of Cryptography,3,"Gao, Qinghai", ,  ,0,,,,
-202402,CPS,325,PM1,25671,,A,CLASS,E,WHIT,B19,,T,,,,,,05:55 PM,08:35 PM,20,10,10,0,0,0,1,04,Vulnerability Analysis,3,"Abel, Joseph", ,  ,0,,,,
 202402,CPS,401,001,21957,,A,CLASS,D,LUPT,190,,T,,R,,,,04:30 PM,05:45 PM,24,21,3,0,0,0,1,04,Applied Cryptography,3,"Susoglu, Arzu", ,  ,0,,,,
 202402,CPS,405W,JW1,25778,,J,WEBE,I,ON,LINE,,,,,,,,,,15,10,5,0,0,0,1,04,Sr Project-Writ Intensive*AL,3,"Rashid, Mohammad",A3 Chair of Department,  ,0,ACCW,,,
 202402,CPS,405W,WPM,21958,,A,CLASS,E,GLSN,218,,,W,,,,,05:55 PM,08:35 PM,30,12,18,0,30,30,1,04,Sr Project-Writ Intensive*AL,3,"Eltaeib, Tarik", ,  ,0,ACCW,,,
 202402,CPS,460,SY1,21712,,SO,SYNC,E,SYNC,CLASS,M,,,,,,,05:55 PM,08:35 PM,16,14,2,0,0,0,1,04,Network Security,3,"Weppler, Christopher", ,  ,0,,,,
-202402,CPS,461,SY1,23879,,SO,SYNC,E,SYNC,CLASS,,,,R,,,,05:55 PM,08:35 PM,16,20,-4,0,0,0,1,04,Penetration Testing,3,"Weppler, Christopher", ,  ,0,,,,
+202402,CPS,4612,SY1,23879,,SO,SYNC,E,SYNC,CLASS,,,,R,,,,05:55 PM,08:35 PM,16,20,-4,0,0,0,1,04,Penetration Testing,3,"Weppler, Christopher", ,  ,0,,,,
+202402,CPS,325,PM1,25671,,A,CLASS,E,WHIT,B19,,T,,,,,,05:55 PM,08:35 PM,20,10,10,0,0,0,1,04,Vulnerability Analysis,3,"Abel, Joseph", ,  ,0,,,,
 202402,CPS,491,INT,25435,,T,OFFCC,D,OFF,CAMP,,,,,,,,,,5,2,3,0,0,0,1,04,Computdfsder Security Internship,3,"Eltaeib, Tarik",A3 Chair of Department,  ,0,,,,
-
-
